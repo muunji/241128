@@ -2,6 +2,10 @@ import fs from 'fs';
 
 import add from './utils/add';
 
+class kong {}
+
+let work = new kong;
+
 type minseock = string;
 
 let minseock : minseock = "서";
